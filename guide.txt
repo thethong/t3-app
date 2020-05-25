@@ -1,0 +1,7 @@
+# install cli vue
+npm install -g vue-cli
+
+
+nếu cài ko dc đổi sang mạng 4G
+
+
